@@ -1,0 +1,15 @@
+.item--2 {
+    padding: 2px;
+}
+
+.item--logo {
+    position: relative;
+    bottom: 113px;
+    left: 155px;
+}
+
+.item--logo {
+    &__img{
+        width: 3.7%;
+    }  
+}

@@ -1,0 +1,21 @@
+.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+  .menu__list {
+    background: olive;
+    box-sizing: border-box;
+    float: left;
+    width: 25%; }
+  .menu__link {
+    color: #FFF;
+    display: block;
+    padding: 10px;
+    text-decoration: none; }
+  .menu__link:hover {
+    background: #000; }
+
+.text {
+  clear: both; }
+
+/*# sourceMappingURL=document8.css.map */

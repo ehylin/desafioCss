@@ -1,0 +1,23 @@
+.navbar {
+    background-color: green;
+    position: fixed;
+    top: 0;
+}
+.main {
+    padding-top: 12rem;
+    padding-bottom: 3rem;
+    margin: 5px; 
+}
+.box {
+    height: 580px;
+    width: 24%;
+    padding: 5px;
+    box-sizing: border-box;
+    display: inline-block;
+    &__img{
+        padding-left: 3%;
+    }
+    &__text{
+        padding: 2px 15px;
+    }
+} 

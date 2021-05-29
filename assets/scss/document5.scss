@@ -1,0 +1,9 @@
+.item {
+    padding: 2px;
+    &__ribbon {
+        position: relative;
+        bottom: 290px;
+        left: 6px;
+        padding: 5px;
+    }
+}

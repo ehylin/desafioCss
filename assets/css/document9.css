@@ -1,0 +1,49 @@
+.main {
+  height: 200px;
+  width: 60%;
+  position: relative;
+  left: 19.55%; }
+
+.title {
+  background-color: black;
+  height: 40px;
+  width: 100%;
+  margin-top: 40px;
+  position: relative;
+  top: 10%; }
+  .title__page {
+    color: white;
+    padding-top: 9px;
+    padding-left: 10px; }
+
+.menu {
+  width: 30%;
+  height: 120%;
+  background-color: gainsboro;
+  float: inline-start; }
+  .menu__title {
+    padding-left: 20px;
+    padding-top: 15px; }
+
+.section__sub {
+  height: 70%;
+  width: 70%;
+  background-color: white;
+  position: relative;
+  left: 277px;
+  bottom: 200px; }
+  .section__sub__title, .section__sub__text {
+    padding-left: 15px; }
+
+.footer {
+  background-color: gray;
+  width: 100%;
+  height: 30px;
+  position: relative;
+  bottom: 100%;
+  color: white; }
+  .footer__text {
+    padding: 5px;
+    text-align: center; }
+
+/*# sourceMappingURL=document9.css.map */
